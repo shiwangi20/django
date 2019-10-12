@@ -1,0 +1,10 @@
+{% if album %}
+    <h2>Details of album : </h2>
+    <ul>
+        <li>{{ album.album_title }}</li>
+        <li>{{ album.artist }}</li>
+        <li>{{ album.genre }}</li>
+    </ul>
+{% else %}
+    <h3>No Details of album</h3>
+{% endif %}
