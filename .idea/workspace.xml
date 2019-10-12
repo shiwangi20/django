@@ -4,7 +4,7 @@
     <list default="true" id="15c0a9ae-fb82-4b8e-9957-be7ebe9fe1f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/music/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/music/admin.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570806456662</updated>
       <workItem from="1570806593936" duration="1386000" />
-      <workItem from="1570850164181" duration="7963000" />
+      <workItem from="1570850164181" duration="8996000" />
     </task>
     <servers />
   </component>
