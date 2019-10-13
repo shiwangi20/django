@@ -1,3 +1,15 @@
+{% load static %}
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="{% static 'music/style.css' %}"/>
+
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="{% url 'music:index' %}">Vibber</a>
+        </div>
+    </div>
+</nav>
+
 {% if all_album %}
     <ul>
     {% for album in all_album %}
